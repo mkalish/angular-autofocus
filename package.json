@@ -1,0 +1,27 @@
+{
+  "name": "angular-autofocus",
+  "version": "0.0.1",
+  "description": "An angular module that can be used to tie element focus to an angular expression",
+  "main": "angular-autofocus.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "input"
+  ],
+  "author": "mqkalish",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.5.0-beta.0",
+    "angular-mocks": "^1.5.0-beta.0",
+    "jasmine": "^2.3.2",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.5.2",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.6"
+  }
+}
